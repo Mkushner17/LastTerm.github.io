@@ -1,0 +1,16 @@
+The artifact chosen for the database is a MySQL code that produces a database called school. 
+It will incorporate the MongoDB interface with HTML/Javascript that will build upon the current program. 
+The reason for selecting the MySQL database structure to add to my ePortfolio is that MySQL is easy to manage and understandable when tables within the database are constructed. 
+The specific skills showcased when creating the database are typing commands that will develop a specific table desired. 
+An example of this code is a simple command line, “CREATE TABLE.” It will allow the user to input columns, data types, and notes. 
+The improvement of this artifact achieves the ability to utilize other commands to input people to the school table that would attach names to the columns. 
+The course objectives planned to meet with the enhancement shows that progress was made. 
+At this point, there will not be any more updates to the outcome-coverage plans. 
+The MySQL database established displays all the needed desired requirements to develop the table school.
+  The reflection of this active process of enhancing and/or modifying the artifact includes the direct line of code to carefully develop the successful outcome desired to construct a table. 
+Prime examples of this code are, CREATE DATABASE school and USE school. 
+These simple command lines typically allow the content creation of the table school and the proper use of the school to input information. 
+Some key things efficiently absorb during the process of development accurately represent the creation of a database, how to input columns, and display the specific items included to the table. 
+The biggest challenge during this process was carefully choosing the correct IDE. 
+At this key point, the MySQL file will only show the command line CREATE DATABASE school. 
+The rest of the executable file is maintained in the SQL server object explorer. 
